@@ -7,8 +7,9 @@ Programming Languages: Python, Java, C++, C, JavaScript <br>
 Database Systems: SQL, Google Firebase <br>
 Front-End Technologies: HTML, CSS
 
-## 💻 Personal Portfolio Website (Ongoing)
-Designed and developed a personal website to showcase my portfolio, utilizing HTML, CSS, and JavaScript. The site highlights my projects, skills, and experience, providing a user-friendly interface and responsive design for an optimal browsing experience.
+## 💻 Projects
+Personal Portfolio Website (Ongoing)
+- Designed and developed a personal website to showcase my portfolio, utilizing HTML, CSS, and JavaScript. The site highlights my projects, skills, and experience, providing a user-friendly interface and responsive design for an optimal browsing experience.
 
 ## 🎯 Goals and Objectives
 Short-Term: I aim to deepen my expertise in machine learning and data science by working on challenging projects and contributing to open-source communities.

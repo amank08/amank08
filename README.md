@@ -16,7 +16,7 @@ Short-Term: I aim to deepen my expertise in machine learning and data science by
 Long-Term: I aspire to become a lead software developer, specializing in data-driven solutions that address real-world challenges, while continuously learning and growing within the tech industry.
 Personal Growth: I'm committed to enhancing my problem-solving skills and exploring innovative ways to apply data science in various domains, including finance and technology.
 
-## 🌐 Get in Touch
+## 🌐 Contact
 Email: amank26@outlook.com
 
 <!--

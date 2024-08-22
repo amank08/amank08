@@ -12,8 +12,8 @@ Personal Portfolio Website (Ongoing)
 - Designed and developed a personal website to showcase my portfolio, utilizing HTML, CSS, and JavaScript. The site highlights my projects, skills, and experience, providing a user-friendly interface and responsive design for an optimal browsing experience.
 
 ## 🎯 Goals and Objectives
-Short-Term: I aim to deepen my expertise in machine learning and data science by working on challenging projects and contributing to open-source communities.
-Long-Term: I aspire to become a lead software developer, specializing in data-driven solutions that address real-world challenges, while continuously learning and growing within the tech industry.
+Short-Term: I aim to deepen my expertise in machine learning and data science by working on challenging projects and contributing to open-source communities. <br>
+Long-Term: I aspire to become a lead software developer, specializing in data-driven solutions that address real-world challenges, while continuously learning and growing within the tech industry. <br>
 Personal Growth: I'm committed to enhancing my problem-solving skills and exploring innovative ways to apply data science in various domains, including finance and technology.
 
 ## 🌐 Contact

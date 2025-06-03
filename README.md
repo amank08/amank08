@@ -3,9 +3,9 @@
 I'm a passionate Computer Science student at The University of North Carolina at Charlotte, with a concentration in Data Science and a minor in Mathematics. I have a solid foundation in software development and a deep interest in data manipulation, machine learning, and full-stack development.
 
 ## 🛠️ Skills & Technologies
-Programming Languages: Python, Java, C++, C, JavaScript <br>
-Database Systems: SQL, Google Firebase <br>
-Front-End Technologies: HTML, CSS
+Programming Languages: Python, Java <br>
+Database Systems: SQL <br>
+Front-End Technologies: HTML, CSS, JavaScript
 
 ## 💻 Projects
 Personal Website (Ongoing)
